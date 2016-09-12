@@ -1,6 +1,8 @@
 # GMT Scripts to Footer
 Automatically move all JavaScript files to the footer for better performance. Adapted from <a href="http://www.kevinleary.net/move-javascript-bottom-wordpress/#comment-56740">code by Joshua David Nelson</a>.
 
+***Note:*** *There is a possibility this will break the functionality of certain plugins or themes depending on how they load files. If that happens, the only fix is to deactivate this plugin. Sorry!*
+
 [Download GMT Disable WP Core Updates](https://github.com/cferdinandi/gmt-scripts-to-footer/archive/master.zip)
 
 
